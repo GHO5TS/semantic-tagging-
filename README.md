@@ -4,9 +4,9 @@
 
 ## Screenshots
 
-![Shows the top half of the website](assets\images\top_of_page.png) 
+![Shows the top half of the website](./assets/images/top_of_page.png) 
 
-![Shows the bottom half of the website](assets\images\bottom_of_page.png)
+![Shows the bottom half of the website](./assets/images/bottom_of_page.png)
 
 ## Link
 
@@ -14,4 +14,4 @@
 
 ## Description
 
-Changed div tags to the proper sematic tagging
+Changed div tags to the proper semantic tagging
