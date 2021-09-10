@@ -4,9 +4,9 @@
 
 ## Screenshots
 
-![Shows the top half of the website](C:./assets\images\top_of_page.png) 
+![Shows the top half of the website](assets\images\top_of_page.png) 
 
-![Shows the bottom half of the website](./assets\images\bottom_of_page.png)
+![Shows the bottom half of the website](assets\images\bottom_of_page.png)
 
 ## Link
 
